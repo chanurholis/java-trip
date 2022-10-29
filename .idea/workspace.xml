@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d6b8164-3dd7-4b5c-9d0d-1f21aa294684" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IfElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MultidimensionalArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Variables.java" afterDir="false" />
-    </list>
+    <list default="true" id="2d6b8164-3dd7-4b5c-9d0d-1f21aa294684" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
