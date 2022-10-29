@@ -6,8 +6,5 @@ public class Main {
 
         // If Else
         System.out.println(IfElse.main(true));
-
-        // Array
-
     }
 }

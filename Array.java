@@ -1,5 +1,5 @@
 public class Array {
-    String[] arrayNames = {"Chacha Nurholis", "Syiffa Ur Rahmah"};
+    String[] arrayNames = { "Chacha Nurholis" };
 
     public static void main(String[] args) {
         Array myArray = new Array();
