@@ -1,4 +1,4 @@
-package Example;
+package packages.Example;
 
 public class Aselole {
     public static void main() {

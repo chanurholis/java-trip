@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-import Example.Aselole;
+import packages.Example.Aselole;
 
 class Package {
     public static void main(String[] args) {
