@@ -16,7 +16,6 @@ public class CreateFileExample {
 
     public static void writeLorem(String filename) {
         try {
-            // check file
             checkFile(filename);
             FileWriter myFile = new FileWriter(filename);
             myFile.write("lorem ipsum aselole");
