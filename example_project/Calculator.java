@@ -1,4 +1,4 @@
-package PROJECT;
+package example_project;
 
 class Calculator {
     public static void main(String[] args) {
