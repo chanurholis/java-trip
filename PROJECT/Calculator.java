@@ -1,3 +1,5 @@
+package PROJECT;
+
 class Calculator {
     public static void main(String[] args) {
         // penjumlahan

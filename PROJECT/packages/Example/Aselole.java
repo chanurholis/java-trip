@@ -1,4 +1,4 @@
-package packages.Example;
+package PROJECT.packages.Example;
 
 public class Aselole {
     public static void main() {
